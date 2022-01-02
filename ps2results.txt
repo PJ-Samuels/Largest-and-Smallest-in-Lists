@@ -1,0 +1,10 @@
+Problem 1:
+Largest: 100
+Smallest: -6
+Largest: 99
+Smallest: -100
+Problem 2:
+Answer = 4158.761200
+Problem 3:
+false
+false
